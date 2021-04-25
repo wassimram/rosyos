@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b662f909-2225-4fbd-bd03-be225efe9d09" name="Default Changelist" comment="adding yos.php file">
-      <change beforePath="$PROJECT_DIR$/y1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/y1.txt" afterDir="false" />
-    </list>
+    <list default="true" id="b662f909-2225-4fbd-bd03-be225efe9d09" name="Default Changelist" comment="changing y1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,10 +10,13 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="dev" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="253cd28bee57f45533e2010a9f2f51496d536238" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1619245153054</updated>
-      <workItem from="1619245154484" duration="308000" />
+      <workItem from="1619245154484" duration="550000" />
     </task>
     <task id="LOCAL-00001" summary="adding yos.php file">
       <created>1619245359293</created>
@@ -51,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619245359293</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changing y1">
+      <created>1619245485136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619245485136</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding yos.php file" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding yos.php file" />
+    <MESSAGE value="changing y1" />
+    <option name="LAST_COMMIT_MESSAGE" value="changing y1" />
   </component>
 </project>
